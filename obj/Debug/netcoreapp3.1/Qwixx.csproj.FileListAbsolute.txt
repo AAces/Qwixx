@@ -1,0 +1,13 @@
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.exe
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.deps.json
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.runtimeconfig.json
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.runtimeconfig.dev.json
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.dll
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\bin\Debug\netcoreapp3.1\Qwixx.pdb
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.csprojAssemblyReference.cache
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.AssemblyInfoInputs.cache
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.AssemblyInfo.cs
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.csproj.CoreCompileInputs.cache
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.dll
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.pdb
+C:\Users\dylan\Desktop\Coding\Misc\Qwixx\Qwixx\obj\Debug\netcoreapp3.1\Qwixx.genruntimeconfig.cache
